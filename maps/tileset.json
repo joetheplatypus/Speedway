@@ -1,0 +1,12 @@
+{ "columns":9,
+ "image":"..\/..\/roadtiles-textures\/spritesheet.png",
+ "imageheight":576,
+ "imagewidth":576,
+ "margin":0,
+ "name":"spritesheet",
+ "spacing":0,
+ "tilecount":81,
+ "tileheight":64,
+ "tilewidth":64,
+ "type":"tileset"
+}
